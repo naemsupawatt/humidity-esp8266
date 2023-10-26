@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pridi:wght@300;400;500;600;700&display=swap');
+
+body{
+    margin: 0;
+    font-family: 'Poppins', 'Pridi';
+}
+.custom-nav{
+    background-color: #4AA981;
+}
+.custom-nav > div > a{
+    color: white;
+    font-weight: bold;
+}
